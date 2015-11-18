@@ -1,0 +1,4 @@
+*.log
+.ftppass
+dist/
+node_modules/

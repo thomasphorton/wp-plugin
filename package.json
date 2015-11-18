@@ -1,0 +1,25 @@
+{
+  "name": "wp-plugin",
+  "version": "0.0.0",
+  "description": "Wordpress Plugin Starter Kit",
+  "author": "Thomas P. Horton <thomasphorton@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nodejitsu/browsenpm.org"
+  },
+  "bugs": {
+    "url": "https://github.com/nodejitsu/browsenpm.org/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "glob": "^4.3.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-ftp-deploy": "^0.1.9",
+    "load-grunt-tasks": "^3.3.0"
+  },
+  "private": true,
+  "license": "MIT"
+}

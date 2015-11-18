@@ -1,0 +1,6 @@
+{
+  "key1": {
+    "username": "<your FTP username>",
+    "password": "<your FTP password>"
+  }
+}
